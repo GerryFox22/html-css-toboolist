@@ -17,6 +17,11 @@ main{
 
 }
 
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
 
 .logo {
     display: inline-block
@@ -35,6 +40,40 @@ main{
 
 .button-container {
     padding: 20px 50px;
+}
+
+.order-list {
+    line-height: 45px;
+    padding: 20px 50px;
+}
+
+.check {
+    border: 1px solid;
+    padding: 2px;
+    border-radius: 50%;
+}
+
+.check-red {
+    color: red;
+    border-color: red;
+
+}
+
+.check-green {
+    color: green;
+    border-color: green;
+}
+
+.circle-info {
+    padding: 5px 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.blue {
+    border: 1px solid lightgray;
+    background-color: #03a9f4;
+    color: white;
 }
 
 #blue-button {
