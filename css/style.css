@@ -76,6 +76,41 @@ ul {
     color: white;
 }
 
+.viola {
+
+    border: 1px solid purple;
+    background-color: purple;
+    color: white;
+
+}
+
+.green {
+    border: 1px solid green;
+    background-color: green;
+    color: white;
+
+}
+
+.orange {
+    border: 1px solid orange;
+    background-color: orange;
+    color: white;
+
+}
+
+.verde {
+    border: 1px solid lightgreen;
+    background-color: lightgreen;
+    color: white;
+
+}
+
+.rosa {
+    border: 1px solid pink;
+    background-color: pink;
+    color: white;
+}
+
 #blue-button {
     border: 1px solid lightgray;
     background-color: #03a9f4;
