@@ -1,0 +1,28 @@
+*{
+    margin: 0 auto;
+}
+
+header {
+    padding: 10px;
+}
+
+h1 {
+    font-size: 40px;
+    display: inline-block;
+}
+
+main{
+    padding: 40px 150px;
+    background-color: #e7e7e7;
+
+}
+
+
+.logo {
+    display: inline-block
+}
+
+
+.section-container {
+    background-color: white;
+}
