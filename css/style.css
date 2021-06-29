@@ -26,3 +26,26 @@ main{
 .section-container {
     background-color: white;
 }
+
+.button {
+    border-radius: 5px;
+    padding: 5px 10px;
+   
+}
+
+.button-container {
+    padding: 20px 50px;
+}
+
+#blue-button {
+    border: 1px solid lightgray;
+    background-color: #03a9f4;
+    color: white;
+}
+
+#white-button {
+    border: 1px solid lightgray;
+    background-color: white;
+    color: lightgray;
+}
+
